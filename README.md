@@ -1,4 +1,4 @@
-# PSPKIAudit
+PSPKIAudit
 
 PowerShell toolkit for auditing Active Directory Certificate Services (AD CS).
 
